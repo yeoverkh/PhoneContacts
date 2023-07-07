@@ -88,3 +88,5 @@ And you will get all information about contacts, for example:
 }
 ```
 
+Also, here diagram of this database:
+![Here must be diagram](diagramDB.png)
